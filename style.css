@@ -70,7 +70,7 @@ header {
 }
 
 .hero-buttons {
-  margin-top: 20px;
+  margin-top: 25px;
 }
 
 .btn {
@@ -86,7 +86,7 @@ header {
 .secondary {
   background: transparent;
   color: #38bdf8;
-  border: 2px solid #38bdf8;
+  border: 5px solid #38bdf8;
 }
 
 /* Sections */
